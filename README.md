@@ -1,9 +1,9 @@
-#DISCLAIMER FROM J-K-Tech/Kinny
+# DISCLAIMER FROM J-K-Tech/Kinny
 
 i had to fork so i can play levels on my 1.12.2 modpack.. since the OG creator decided to take down levels2 and i cant play it anymore for whatever reason, i decided to step in and port. this mod is not made by me, this is just a port so i can make this work. i think that if nobody is going to support the software anymore they should stop complaining about others trying to give continuity. this is nintendo level bullshitery.
 
-#OG
-#DESCRIPRION
+# OG
+# DESCRIPRION
 
 Since people have given me a lotta shit about the license and other stuff - lemme spell out what is going on.
 
