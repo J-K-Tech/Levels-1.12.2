@@ -1,3 +1,10 @@
+#DISCLAIMER FROM J-K-Tech/Kinny
+
+i had to fork so i can play levels on my 1.12.2 modpack.. since the OG creator decided to take down levels2 and i cant play it anymore for whatever reason, i decided to step in and port. this mod is not made by me, this is just a port so i can make this work. i think that if nobody is going to support the software anymore they should stop complaining about others trying to give continuity. this is nintendo level bullshitery.
+
+#OG
+#DESCRIPRION
+
 Since people have given me a lotta shit about the license and other stuff - lemme spell out what is going on.
 
 The port of Levels 2 which was floating around ported the mod illegally (by GPL's standards). I removed it because it was a shitty version of Levels 2 and apparently had several bugs and issues. I've been on and off trying to update Levels 3, but I'm also trying to cut back how much time I'm spending modding (with work and school), and with LSC taking up a lot of time, I don't have much time to work on Levels 3 - if anyone wants to take over the mod, send me a message please. I'd be interested in handing the project off to someone else.
